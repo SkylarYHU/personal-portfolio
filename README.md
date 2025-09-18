@@ -20,4 +20,4 @@ You can view the live website here: [Skylar's Portfolio Website](https://skylarh
 - **Deployment:** AWS
 
 ## Screenshots
-![screenshots of website](Screenshots/Skylarhuwork_screenshot.png)
+![screenshots of website](Screenshots/Skylarhuwork_screenshot1.png)
